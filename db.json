@@ -1,11 +1,5 @@
 {
-  "cardapio": [
-    {
-      "id": "1",
-      "titulo": "TESTE",
-      "descricao": "TESTE"
-    }
-  ],
+  "cardapio": [],
   "data": [
     {
       "descricao": []
